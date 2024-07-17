@@ -11478,8 +11478,6 @@ span.select2-selection.select2-selection--single:focus {
   min-height: 80px;
 }
 .brand-card img {
-  -webkit-filter: grayscale(100) opacity(1);
-  filter: grayscale(100) opacity(1);
   -webkit-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
 }
